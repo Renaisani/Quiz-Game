@@ -1,5 +1,5 @@
-correct = 0
-incorrect = 0
+correct = 0 #stores value of number of correct answers
+incorrect = 0 #stores value of number of incorrect answers
 print("Welcome to the Imani Game Show!")
 name = input("Enter your name to start: ")
 print(f"OK, {name}, here's the first question.")
